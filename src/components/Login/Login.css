@@ -1,0 +1,13 @@
+.login-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.login-form div{
+    background-color: aquamarine;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 30px;
+}

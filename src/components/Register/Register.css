@@ -1,0 +1,17 @@
+.register-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+
+.register-form div{
+    background-color: darkseagreen;
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 20px;
+   
+  
+}
